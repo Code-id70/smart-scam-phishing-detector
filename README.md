@@ -1,6 +1,8 @@
 # Smart Scam & Phishing Risk Detector
 
-A privacy-first educational tool that analyzes messages for phishing indicators using advanced pattern matching and heuristic analysis. Built with Flask, it provides risk assessments with detailed explanations to help users recognize scam tactics. Implements input validation, weighted risk scoring, and comprehensive unit testing. Designed as a learning tool with transparent limitations—does not replace professional security solutions.
+This project is for educational purpose only
+
+A privacy-first educational tool built with Flask. It analyzes messages for phishing indicators using pattern matching and heuristic scoring, providing detailed explanations to help users recognize scams.”
 
 ## Overview
 
@@ -31,7 +33,7 @@ This project addresses the growing problem of online scams and phishing attacks.
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Code-id70/smart-scam-phishing-detector.git >
    cd smart-scam-phishing-detector
    ```
 
