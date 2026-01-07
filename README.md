@@ -70,6 +70,30 @@ Run the unit tests to verify functionality:
 python test_detector.py
 ```
 
+## Screenshots
+
+### Desktop View
+
+![Smart Scam Detector Desktop Interface](images/desktop-view-1.png)
+_Main analysis interface showing input form and results._
+
+![Desktop View with Risk Assessment](images/desktop-view-2.png)
+_Detailed risk assessment with explanations and safety tips._
+
+![Desktop Educational Section](images/desktop-view-3.png)
+_Educational content and example messages for testing._
+
+### Mobile View
+
+![Smart Scam Detector Mobile Interface](images/mobile-view-1.png)
+_Responsive mobile layout of the main interface._
+
+![Mobile Risk Assessment](images/mobile-view-2.png)
+_Mobile view of analysis results and recommendations._
+
+![Mobile Educational Content](images/mobile-view-3.png)
+_Mobile-friendly educational section with scam tactics._
+
 ## Ethical Considerations
 
 - **Transparency**: All analysis rules are visible in the code.
